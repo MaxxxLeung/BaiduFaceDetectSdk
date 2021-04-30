@@ -1,2 +1,3 @@
+include ':baidu-face-release'
 include ':app'
 rootProject.name = "BaiduFaceDetectSdk"
